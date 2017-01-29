@@ -1,3 +1,10 @@
-"# html-xpath-tool" 
+**Html Xpath Tool**
 
-Simple tool i made to help me with my scraping jobs hehe
+A simple tool I made to quickly evaluate xpath queries whilst scraping online data.
+
+**Requirements**
+>pyside
+>lxml
+
+If recieving lxml errors on windows please download from here
+>http://www.lfd.uci.edu/~gohlke/pythonlibs/
