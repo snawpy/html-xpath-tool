@@ -2,7 +2,7 @@
 
 A simple tool I made to quickly evaluate xpath queries whilst scraping online data.
 
-###### **Requirements**
+## **Requirements**
 ```
 pyside
 lxml
