@@ -2,10 +2,11 @@
 
 A simple tool I made to quickly evaluate xpath queries whilst scraping online data.
 
-**Requirements**
->pyside
-
->lxml
+###### **Requirements**
+```
+pyside
+lxml
+```
 
 If recieving lxml errors on windows please download lxml from here:
->http://www.lfd.uci.edu/~gohlke/pythonlibs/
+http://www.lfd.uci.edu/~gohlke/pythonlibs/
