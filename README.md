@@ -4,6 +4,7 @@ A simple tool I made to quickly evaluate xpath queries whilst scraping online da
 
 **Requirements**
 >pyside
+
 >lxml
 
 If recieving lxml errors on windows please download from here
